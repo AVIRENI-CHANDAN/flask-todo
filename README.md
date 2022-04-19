@@ -44,28 +44,12 @@ $ flask run
 ```
 
 
-$ pip install Flask-SQLAlchemy
-```
-Set environment variables in terminal
-```
-$ export FLASK_APP=app.py
-$ export FLASK_ENV=development
-```
-
-or on Windows
-```
-$ set FLASK_APP=app.py
-$ set FLASK_ENV=development
-```
-
-Run the app
-```console
-$ flask run
-```
-
-
 *Project by*
+
 *Avireni Chandan*
+
 *Inguva Anurag*
+
 *Nookala Sathvik*
+
 *Arji Dhakshayane*
